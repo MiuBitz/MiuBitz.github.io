@@ -17,9 +17,8 @@ export default function Hero() {
       </h1>
 
       <p className="hero-description">
-        MiuBitz is a collection of lightweight apps and utilities created
-        to solve everyday problems, simplify workflows, and make useful
-        things a little easier. Made by{" "}
+        A set of lightweight tools and utilities built for daily workflows.
+        Free, open-source, and made to help make your work a little easier too. Built by{" "}
         <a
           href="https://kasunmiu.github.io/"
           target="_blank"
