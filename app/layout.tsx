@@ -9,7 +9,7 @@ config.autoAddCss = false;
 export const metadata: Metadata = {
   metadataBase: new URL("https://miubitz.github.io"),
   title: {
-    default: "MiuBitz — Small tools. Built to be useful.",
+    default: "MiuBitz - Small tools. Built to be useful.",
     template: "%s | MiuBitz",
   },
   description:
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     apple: "/logo-sm.svg",
   },
   openGraph: {
-    title: "MiuBitz — Small tools. Built to be useful.",
+    title: "MiuBitz - Small tools. Built to be useful.",
     description:
       "A collection of lightweight, open-source web tools and desktop utilities built to simplify everyday tasks, optimize workflows, and get things done faster.",
     url: "https://miubitz.github.io/",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "MiuBitz — Small tools. Built to be useful.",
+    title: "MiuBitz - Small tools. Built to be useful.",
     description:
       "A collection of lightweight, open-source web tools and desktop utilities built to simplify everyday tasks, optimize workflows, and get things done faster.",
     images: ["/logo-lg.svg"],
